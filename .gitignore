@@ -1,0 +1,5 @@
+.vscode
+
+source-images/*
+output-images/*
+!landver-lol.JPG
